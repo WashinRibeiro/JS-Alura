@@ -11,4 +11,9 @@ console.log("Idade com I maiúscula é: " + Idade);
 // Diferença entre colocar const ou ou está relacionado com o escopo global do código,
 // mas por padrão, é ideal colocar o declaração (palavra reservada) "const"
 
-// Temos também o "let", mas veremos ele mais para a frente !!
+
+/* 
+------------------------------------------------
+Temos também o "let", mas veremos ele mais para a frente !!
+------------------------------------------------
+*/
