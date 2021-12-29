@@ -1,4 +1,4 @@
-//Console.log("Trabalhando com Variáveis");
+// Console.log("Trabalhando com Variáveis");
 console.log("Trabalhando com Variáveis");
 // JS é Case Sensitve (tem diferença entre maiúsculo e minúsculo)
 
