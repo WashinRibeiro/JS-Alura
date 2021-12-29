@@ -22,3 +22,9 @@ console.log(primeiroNome);
 // Mas o mais correto nesses casos é permanecer com uma constante e criar um nova, como mostrado abaixo.
 // Devemos utilizar o LET somente em casos que se faz realmente necessário essa alteração durante o código
 const NomeCompleto = primeiroNome + sobrenome;
+
+
+let novaIdade;
+novaIdade = 26;
+novaIdade = novaIdade + 1;
+console.log(novaIdade);
