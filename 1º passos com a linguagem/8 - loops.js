@@ -1,4 +1,4 @@
-console.log("Trabalhando com Loops");
+console.log("Trabalhando com Loops\n");
 
 const listaDeDestinos = new Array(
     `Salvador`,

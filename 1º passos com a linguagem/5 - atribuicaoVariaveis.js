@@ -1,4 +1,4 @@
-console.log("Trabalhando com Atribuição de Variáveis");
+console.log("Trabalhando com Atribuição de Variáveis\n");
 
 const idade = 20;
 // const primeiroNome = "Washington";

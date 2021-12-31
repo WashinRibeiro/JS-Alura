@@ -1,9 +1,12 @@
 // Console.log("Trabalhando com Variáveis");
-console.log("Trabalhando com Variáveis");
+console.log("Trabalhando com Variáveis\n");
 // JS é Case Sensitve (tem diferença entre maiúsculo e minúsculo)
 
 const idade = 26;
-Idade = 12; // Funciona mas não está em uma boa prática
+
+// Funciona mas não está em uma boa prática
+Idade = 12;
+
 
 console.log("idade com i minúsculo é: " + idade);
 console.log("Idade com I maiúscula é: " + Idade);

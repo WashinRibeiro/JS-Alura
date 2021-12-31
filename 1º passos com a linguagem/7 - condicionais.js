@@ -1,4 +1,4 @@
-console.log(`Trabalhando com Condicionais\n`);
+console.log("Trabalhando com Condicionais\n");
 
 const listaDeDestinos = new Array(
     `Salvador`,

@@ -1,4 +1,4 @@
-console.log("Meu primeiro programa"); 
+console.log("Meu primeiro programa\n"); 
 
 const idade = 26;
 

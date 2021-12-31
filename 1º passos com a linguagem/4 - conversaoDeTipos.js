@@ -1,4 +1,4 @@
-console.log("Conversão de Tipos");
+console.log("Conversão de Tipos\n");
 
 console.log("ano" + 2020); // concatenou string e inteiro
 
