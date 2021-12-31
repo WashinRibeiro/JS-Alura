@@ -24,7 +24,7 @@ console.log(listaDeDestinos);
 
 
 // adicionar um novo item na lista
-listaDeDestinos.splice(1,1); // Segunda posição, somente 1 elemento - Começando sempre em zero
+listaDeDestinos.splice(1,1); // primeira posição, somente 1 elemento - Começando sempre em zero
 
 console.log(`Destinos ainda Possíveis:`);
 console.log(listaDeDestinos);
